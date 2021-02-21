@@ -1,6 +1,6 @@
 # COMP472 Experiments with Machine Learning 
 
-Team members: Pablo Arevalo Escobar, Johanson Felix, Giovanni Gebran​
+##Team members: Pablo Arevalo Escobar, Johanson Felix, Giovanni Gebran​##
 
 1.  Step 1 
      * Clone or Download the COMP_472.pynb file with the experiment code to your system from Moodle/Github.
